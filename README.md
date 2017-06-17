@@ -1,0 +1,2 @@
+# Vacation
+Just another repository
